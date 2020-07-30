@@ -11,3 +11,4 @@ A quick React project using [PokeAPI](https://pokeapi.co/) to render the all rel
 3. `npm start`.
 
 ## Notes
+

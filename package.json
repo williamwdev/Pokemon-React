@@ -35,7 +35,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
-    "homepage": "https://github.com/williamwdev/Pokemon-React",
+    "gh-pages": "^3.1.0"
   }
 }
